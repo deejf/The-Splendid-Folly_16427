@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '1125'
     url: http://www.gutenberg.org/2009/agents/1125
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16427#The-Splendid-Folly
 gutenberg_issued: '2005-08-04'
 gutenberg_type: Text
 identifiers:
