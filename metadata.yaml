@@ -1,0 +1,27 @@
+_repo: The-Splendid-Folly_16427
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pedler, Margaret
+    deathdate: 1948
+    gutenberg_agent_id: '1125'
+    url: http://www.gutenberg.org/2009/agents/1125
+description: ''
+gutenberg_issued: '2005-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Singers -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcc 'PR'
+title: The Splendid Folly
+url: http://www.gutenberg.org/ebooks/16427
